@@ -13,7 +13,7 @@ if (session_status() == PHP_SESSION_NONE) {
 // Define database
 define('dbhost', 'localhost');
 define('dbuser', 'root');
-define('dbpass', '');
+define('dbpass', 'Fractalia2025$');
 define('dbname', 'asistencia');
 // Connecting database
 try {
